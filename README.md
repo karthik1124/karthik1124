@@ -12,8 +12,6 @@ An engineer who is proficient in his field yet always eager to learn more.
 ![](https://github-readme-streak-stats.herokuapp.com/?user=karthik1124&theme=dark&hide_border=true)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=karthik1124&theme=dark&hide_border=true&include_all_commits=true&count_private=false&layout=compact)
 
-### ✍️ Random Dev Quote
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark)
 
 ### 🔝 Top Contributed Repo
 ![](https://github-contributor-stats.vercel.app/api?username=karthik1124&limit=5&theme=dark&combine_all_yearly_contributions=true)
