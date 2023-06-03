@@ -1,3 +1,7 @@
+[![](https://visitcount.itsvg.in/api?id=karthik1124&icon=2&color=0)](https://visitcount.itsvg.in)
+
+---
+
 # 💫 About Me:
 An engineer who is proficient in his field yet always eager to learn more.
 
@@ -17,6 +21,6 @@ An engineer who is proficient in his field yet always eager to learn more.
 ![](https://github-contributor-stats.vercel.app/api?username=karthik1124&limit=5&theme=dark&combine_all_yearly_contributions=true)
 
 ---
-[![](https://visitcount.itsvg.in/api?id=karthik1124&icon=2&color=0)](https://visitcount.itsvg.in)
+
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
