@@ -18,7 +18,7 @@
 
 - :computer: I am a programmer at `LeetCode`, `GeeksForGeeks`, `HackerRank`.
 - :student: I’m currently pursuring `Btech` in `Computer Science and Artificial Intelligence`.
-- :nerd_face: Always `learns new things`.
+- :yum: Always `learns new things`.
 - :thinking: I’m currently open for a new `job opportunity`, this is [MY RESUME](https://karthik1124.github.io/resume.pdf).
 - :roll_eyes: You can visit [MY WEBSITE](https://karthik1124.github.io/).
 <br>
