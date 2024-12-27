@@ -62,7 +62,7 @@
 <details><summary><h3>💻 GitHub Profile Stats</h3></summary>
 
 ----
--->
+
 
 <p align="center">
     <a href="https://github.com/anuraghazra/github-readme-stats">
@@ -79,6 +79,7 @@
 ![](https://github-contributor-stats.vercel.app/api?username=karthik1124&limit=5&theme=dark&combine_all_yearly_contributions=true)
 </details>
 
+-->
 <br>
   
 ## <picture> <img src="https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/Connect-with-me.gif?raw=true" width="100px"> </picture> Connect with me 
