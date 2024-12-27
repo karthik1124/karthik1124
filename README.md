@@ -49,6 +49,7 @@
 	<a href="https://github.com/piyushsuthar/github-readme-quotes"> <img alt = "Quote" src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight&animation=grow_out_in&quoteCategory=programming">
 </p>
 
+<!--
 ## <picture> <img src = "https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/Statistics.gif?raw=true" width = 50px>  </picture> Github Stats
 
 <details><summary><h3> 🔥 Streak Stats</h3></summary>
@@ -61,7 +62,8 @@
 <details><summary><h3>💻 GitHub Profile Stats</h3></summary>
 
 ----
-	
+-->
+
 <p align="center">
     <a href="https://github.com/anuraghazra/github-readme-stats">
 	    <img alt="karthik1124's Github Stats" src="https://github-readme-stats.vercel.app/api?username=karthik1124&show_icons=true&count_private=true&locale=en&theme=tokyonight&layout=compact" height="230px"/></a>
